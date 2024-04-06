@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.12.5"
+  },
+  "dependencies": {
+    "luxon": "^3.4.4",
+    "papaparse": "^5.4.1",
+    "pino": "^8.20.0"
+  }
+}
